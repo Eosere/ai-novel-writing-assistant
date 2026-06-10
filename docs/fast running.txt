@@ -1,0 +1,4 @@
+cd d:\storydreamer\ver_1
+npm run dev
+
+http://localhost:3000
